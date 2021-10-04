@@ -9,7 +9,7 @@
 
 
 ### Interest
-- 비싸고 맛있는 거
+- 비싸고 양적고 맛있는 거
 - Generalization in Machine Learning
 - Bias and Fairness
 - Domain Adaptation
