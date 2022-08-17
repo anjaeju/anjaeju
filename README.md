@@ -1,5 +1,5 @@
 ### Machine Learning Researcher
-- Master student in [DASH Lab](https://dash-lab.github.io/)
+- Master student in Machin Intelligence (Main) Lab.
 
 
 ### Interest
