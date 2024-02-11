@@ -6,7 +6,6 @@
 - Human Action
 - Video Understanding
 - Bias and Domain Adaptation
-- 비싸고 양적고 맛있는 거
 
 <!--
 Here are some ideas to get you started:
