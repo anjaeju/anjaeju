@@ -1,11 +1,14 @@
-### Machine Learning Researcher
-- Master student in Machin Intelligence (Main) Lab.
+### Thanks for coming !
+Professional : Co-founder at Cleverus (AI-powered Healthcare Monitoring Startup)
+- Role : AI Research Engineer + AI PM
+- Launched 1 AI products (Be:Clever)
+- Details : https://www.linkedin.com/in/anjaeju/
+
+Personal : Mentor in AI field
+- Role : Mentor/Lecturer
+- Details : https://www.inflearn.com/mentors?mentor_id=1615
 
 
-### Interest
-- Human Action
-- Video Understanding
-- Bias and Domain Adaptation
 
 <!--
 Here are some ideas to get you started:
