@@ -1,24 +1,8 @@
 ### Thanks for coming !
 Professional : Co-founder at Cleverus (AI-powered Healthcare Monitoring Startup)
-- Role : AI Research Engineer + AI PM
-- Launched 1 AI products (Be:Clever)
-- Details : https://www.linkedin.com/in/anjaeju/
+- Role : AI PM + AI Research Engineer
+- Launched AI-powered abnormality monitoring system (Be:Clever)
 
 Personal : Mentor in AI field
 - Role : Mentor/Lecturer
 - Details : https://www.inflearn.com/mentors?mentor_id=1615
-
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
