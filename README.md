@@ -1,6 +1,5 @@
 ## Thanks for coming !
 
-### Profile (EN)
 [Professional] Co-founder @ Cleverus ⭐
 - [Cleverus : AI-powered Healthcare Startup](https://www.cleverus-ai.com/)
 - Role : AI PM + AI Research Engineer
