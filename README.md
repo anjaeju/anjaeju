@@ -1,15 +1,14 @@
 ## Yo, I am Jaeju An
-- anjaeju@gmail.com
 
-1. Co-founder @ Cleverus (https://www.cleverus-ai.com/) ⭐
-- Role : AI Research Engineer + AI project Manager
-- 7.5 + years of experience
-  - 4 years of business
+- Co-founder at Cleverus (https://www.cleverus-ai.com/) ⭐
+  - Role : AI Research Engineer + AI project Manager
+  - 6.5 + years of experience
+  - 3 years of business
   - 3.5 years of academic
 
-2. Mentor in AI ⭐
-- Personal Page (working on it)
-- Role : Mentor & Lecturer
+- Mentor in AI ⭐
+  - Personal Page (working on it)
+  - Role : Mentor & Lecturer
   - Mentored 100 + mentees for a total of 300 hours since 2023
   - Provided coaching to students from 15+ universities (including Sungkyunkwan, Hanyang, Yonsei, etc.)
   - Resolved 200+ personal or professional challenges from mentees
